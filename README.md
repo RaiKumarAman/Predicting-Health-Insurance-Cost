@@ -38,7 +38,7 @@ Once the model is trained, you can use it to predict insurance costs for new ind
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and create a pull request with your changes.
 
 ### Authors:
-- [Your Name](https://github.com/RaiKumarAman)
+- [Aman Kumar Rai](https://github.com/RaiKumarAman)
 
 ### Support:
 For any questions or issues, please open an issue on GitHub or contact [rai.aman1909.com](mailto:rai.aman1909@gmail.com).
