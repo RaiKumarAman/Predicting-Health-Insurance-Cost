@@ -1,51 +1,47 @@
-# Predicting-Health-Insurance-Cost
-Based on the data given such as age, bmi, gender, etc. this will be able to predict the cost of insurance.
+**Insurance Cost Prediction Model**
 
-Medical insurance costs are a significant concern for individuals and families around the 
-world. With the rising expenses of healthcare, understanding and predicting these costs 
-has become crucial. The ability to accurately estimate medical insurance costs can help 
-individuals plan their finances and make informed decisions regarding their healthcare 
-coverage.
+### Overview:
+This repository contains a machine learning model for predicting insurance costs based on various factors such as age, BMI, smoking habits, region, etc. The model is trained on a dataset of insurance records and corresponding attributes.
 
-# The importance of predicting medical insurance costs 
+### Requirements:
+- Python 3.x
+- Jupyter Notebook
+- NumPy
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Seaborn
 
-Predicting medical insurance costs is essential for both insurance providers and 
-policyholders. Insurance providers need to assess the risk associated with insuring 
-individuals and determine appropriate premiums. On the other hand, policyholders want 
-to understand the potential costs they may incur to choose the most suitable insurance 
-plan for their needs. 
-Accurate predictions can also help policymakers and government agencies in designing 
-healthcare policies and programs. By understanding the projected costs, they can allocate 
-resources effectively and ensure that healthcare services are accessible and affordable for 
-everyone. 
+### Installation:
+1. Clone this repository:
+   git clone https://github.com/RaiKumarAman/Predicting-Health-Insurance-Cost.git
 
-# What is the Medical Insurance Cost Predictor? 
 
-The Medical Insurance Cost Predictor is an innovative tool designed to forecast medical 
-insurance costs accurately. Developed using advanced statistical models and machine 
-learning algorithms, this predictor takes into account various factors such as age, pre
-existing conditions, lifestyle choices, and geographic location to estimate future medical 
-expenses. 
-Insurance providers can utilize the Medical Insurance Cost Predictor to assess the risk 
-profile of their potential policyholders and set appropriate premiums. Similarly, 
-individuals can use this tool to evaluate different insurance plans and make informed 
-decisions about their healthcare coverage. 
+2. Install the required dependencies:
+   pip install -r requirements.txt
 
-# How does the Medical Insurance Cost Predictor work?
+### Dataset:
+The dataset used for training the model is included in this repository. However, you can obtain a similar dataset from various sources such as Kaggle or insurance industry databases.
 
-The Medical Insurance Cost Predictor utilizes a vast amount of historical data to build 
-predictive models. By analyzing patterns and trends in the data, the predictor identifies 
-factors that contribute significantly to medical expenses. These factors are then 
-incorporated into the algorithm, which generates accurate cost estimates.
+### Usage:
+1. Navigate to the `notebooks` directory.
+2. Open the `Insurance_Cost_Prediction.ipynb` Jupyter Notebook.
+3. Follow the instructions in the notebook to train the model, evaluate its performance, and make predictions.
 
-# Benefits of using the Medical Insurance Cost Predictor 
+### Model Evaluation:
+The model's performance is evaluated using various metrics such as mean absolute error, mean squared error, and R-squared value. These metrics are displayed in the notebook along with visualizations for better understanding.
 
-The Medical Insurance Cost Predictor offers several benefits to both insurance providers 
-and policyholders. For insurance providers, it helps in risk assessment, premium 
-calculation, and designing suitable insurance plans. By accurately estimating medical 
-expenses, providers can ensure the financial sustainability of their business while 
-offering competitive and affordable coverage. 
-Policyholders can benefit from the Medical Insurance Cost Predictor by making informed 
-decisions about their healthcare coverage. It enables them to choose insurance plans that 
-align with their budget and specific healthcare needs. Additionally, individuals can plan 
-their finances better and prepare for potential medical expenses in advance. 
+### Prediction:
+Once the model is trained, you can use it to predict insurance costs for new individuals by providing their attributes such as age, BMI, smoking habits, region, etc., as input to the model.
+
+### Contributing:
+Contributions are welcome! If you'd like to contribute to this project, please fork the repository and create a pull request with your changes.
+
+### Authors:
+- [Your Name](https://github.com/RaiKumarAman)
+
+### Support:
+For any questions or issues, please open an issue on GitHub or contact [rai.aman1909.com](mailto:rai.aman1909@gmail.com).
+
+### Disclaimer:
+This model is for educational and research purposes only. The predictions made by this model may not always be accurate and should not be solely relied upon for making decisions. Always consult with a qualified insurance professional for accurate cost estimates.
