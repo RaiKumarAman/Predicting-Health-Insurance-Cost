@@ -41,7 +41,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 - [Aman Kumar Rai](https://github.com/RaiKumarAman)
 
 ### Support:
-For any questions or issues, please open an issue on GitHub or contact [rai.aman1909.com](mailto:rai.aman1909@gmail.com).
+For any questions or issues, please open an issue on GitHub or contact [rai.aman1909@gmail.com](mailto:rai.aman1909@gmail.com).
 
 ### Disclaimer:
 This model is for educational and research purposes only. The predictions made by this model may not always be accurate and should not be solely relied upon for making decisions. Always consult with a qualified insurance professional for accurate cost estimates.
